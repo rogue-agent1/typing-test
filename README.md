@@ -1,7 +1,14 @@
 # typing-test
-Terminal typing speed test. Zero dependencies.
+
+Typing speed test simulator
+
 ## Usage
+
+```bash
+python3 typing_test.py --help
 ```
-python3 typing_test.py
-python3 typing_test.py 5
-```
+
+## Features
+
+- Zero dependencies (Python 3.8+)
+- Single file implementation
